@@ -7,7 +7,7 @@ Functionally, it's very simple -- it's a well-designed small 3D printed labeled 
 
 While it's simple, I feel that this project requires more work in software and programming it to work than it is to assemble, and overall a similar amount of work as a simple electronics project. I think it's a good start as I try to make more complicated wearable devices (such as a location-tracking device and smart glasses) in the coming days and weeks for Alleyway!
 
-Concept image:
+Concept image: (no wiring diagram since there are no wires)
 
 <img width="600" height="810" alt="image" src="https://github.com/user-attachments/assets/6919c15f-87ee-4166-950a-791a1b6243b4" />
 
