@@ -1,0 +1,22 @@
+Bill of Materials / ID Watch,,,,,
+Eddy Zhao,,,,,
+Version 1.0 - 13 October 2025,,,,,
+,,,,,
+Item Name,Purpose,Item Source,Quantity,Unit Cost (includes taxes),Cost
+125 kHz RFID T5577 Chipset Sticker (10-Piece),Communicate with low-frequency RFID devices such as HID readers and metro gates,Amazon,1,$9.70,$9.70
+13.56 MHz NFC NTAG215 Chipset Sticker (30-Piece),Communicate with high-frequency NFC devices such as phones and locks,Amazon,1,$7.71,$7.71
+22mm Adjustable Nylon Watch Strap,Hold the actual watch device around the wearer's wrist,Amazon,1,$7.70,$7.70
+,,,,,$0.00
+,,,,,$0.00
+,,,,,$0.00
+,,,,,$0.00
+,,,,,$0.00
+,,,,,$0.00
+,,,,,$0.00
+,,,,,$0.00
+,,,,,$0.00
+,,,,,$0.00
+TOTAL,,,3,,$25.11
+,,,,,
+Already Owned:,Also requires 3D Printer filament but the amount is so miniscule I won't count it,,,,
+Proxmark3 Easy w/Iceman (thanks SoM!),,,,,
