@@ -13,3 +13,4 @@ Concept image: (no wiring diagram since there are no wires)
 
 (also attached to repo and [linked here](https://github.com/eddyzow/IDWatch/blob/main/CONCEPT.png))
 
+Bill of materials with links can be found [here](https://docs.google.com/spreadsheets/d/1CYlGaBoLUzagp5BfSMqT0KtrMISLPrUdifLu3cQD9z8/edit?usp=sharing)
